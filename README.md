@@ -76,7 +76,6 @@ _*Brief= the Speaker is prompted to output short descriptions;
 * [Qwen2.5-VL](https://huggingface.co/Qwen/Qwen-VL)
 * For more details on the evaluation and pipeline, see `docs/`.
 
----
 
 **Note:**
 The README above is focused ONLY on comparisons with Qwen as the Listener. It is possible to adapt the code to use also different VLMs as listeners.
@@ -119,6 +118,7 @@ between **discriminative** and **underdiscriminative** utterances.
   references, were minimal: the probe did not really exploit visual cues.  
 
 ---
+
 # 3. Further Analyses
 Further analysis on the probe were operated:
 
