@@ -1,0 +1,10 @@
+einops 
+transformers_stream_generator
+tiktoken
+matplotlib
+torch 
+transformers 
+datasets 
+pillow 
+accelerate
+requests 
